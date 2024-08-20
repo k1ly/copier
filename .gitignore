@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+/node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+/coverage/
+
+# Build
+/dist/
+
+# Env files
+.env*
+!.env.template
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/launch.json
